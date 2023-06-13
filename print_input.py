@@ -1,0 +1,5 @@
+name = input('informe seu nome: ')
+idade = input('informe sua idade: ')
+print(name, idade)
+print(name, idade, end=".........\n")
+print(name, idade, sep="aaaaaaaaaaaaaaaaaaaaaaaa#aaaaaaaaaaaaa\n")
